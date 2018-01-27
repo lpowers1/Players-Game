@@ -1,0 +1,8 @@
+logan 307 7
+brigham 191 91
+christian 96 46
+james 27 27
+john 518 18
+tonya 83 38
+teacher 446 196
+jimmy 20 0
